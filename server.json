@@ -1,0 +1,255 @@
+{
+  "week": [
+    {
+      "id": 1,
+      "day": "monday",
+      "open": true
+    },
+    {
+      "id": 2,
+      "day": "tuesday",
+      "open": true
+    },
+    {
+      "id": 3,
+      "day": "wednesday",
+      "open": true
+    },
+    {
+      "id": 4,
+      "day": "thursday",
+      "open": true
+    },
+    {
+      "id": 5,
+      "day": "friday",
+      "open": true
+    },
+    {
+      "id": 6,
+      "day": "saturday",
+      "open": true
+    },
+    {
+      "id": 7,
+      "day": "sunday",
+      "open": false
+    },
+    {
+      "id": 8,
+      "day": "every day",
+      "open": true
+    }
+  ],
+  "menu": [
+    {
+      "dayId": 1,
+      "dishes": [
+        {
+          "title": "virada a Paulista",
+          "active": true
+        },
+        {
+          "title": "bife a cavalo",
+          "active": true
+        },
+        {
+          "title": "strogonoff de frango",
+          "active": true
+        }
+      ],
+      "dishComplements": [
+        {
+          "title": "banana frita",
+          "active": true
+        },
+        {
+          "title": "couve refogada",
+          "active": true
+        }
+      ]
+    },
+    {
+      "dayId": 2,
+      "dishes": [
+        {
+          "title": "frango assado",
+          "active": true
+        },
+        {
+          "title": "lombo de porco",
+          "active": true
+        },
+        {
+          "title": "strogonoff de carne",
+          "active": true
+        }
+      ],
+      "dishComplements": [
+        {
+          "title": "legumes refogado",
+          "active": true
+        },
+        {
+          "title": "macarrão ao molho ou batata palha",
+          "active": true
+        }
+      ]
+    },
+    {
+      "dayId": 3,
+      "dishes": [
+        {
+          "title": "feijoada",
+          "active": true
+        },
+        {
+          "title": "filé empanado com creme de milho",
+          "active": true
+        },
+        {
+          "title": "costela assada",
+          "active": true
+        }
+      ],
+      "dishComplements": [
+        {
+          "title": "farofa",
+          "active": true
+        },
+        {
+          "title": "couve refogada",
+          "active": true
+        }
+      ]
+    },
+    {
+      "dayId": 4,
+      "dishes": [
+        {
+          "title": "peixe frito",
+          "active": true
+        },
+        {
+          "title": "carne com legumes",
+          "active": true
+        },
+        {
+          "title": "costela assada",
+          "active": true
+        }
+      ],
+      "dishComplements": [
+        {
+          "title": "viradinho de milho",
+          "active": true
+        },
+        {
+          "title": "purê de batata",
+          "active": true
+        }
+      ]
+    },
+    {
+      "dayId": 5,
+      "dishes": [
+        {
+          "title": "brajola",
+          "active": true
+        },
+        {
+          "title": "tutu com costelinha de porco",
+          "active": true
+        },
+        {
+          "title": "arroz com frango",
+          "active": true
+        }
+      ],
+      "dishComplements": [
+        {
+          "title": "farofa rica",
+          "active": true
+        },
+        {
+          "title": "couve refogada ou batata palha",
+          "active": true
+        }
+      ]
+    },
+    {
+      "dayId": 6,
+      "dishes": [
+        {
+          "title": "feijoada",
+          "active": true
+        },
+        {
+          "title": "parmegiana de carne",
+          "active": true
+        },
+        {
+          "title": "parmegiana de frango",
+          "active": true
+        }
+      ],
+      "dishComplements": [
+        {
+          "title": "farofa",
+          "active": true
+        },
+        {
+          "title": "couve refogada",
+          "active": true
+        }
+      ]
+    },
+    {
+      "dayId": 7,
+      "dishes": []
+    },
+    {
+      "dayId": 8,
+      "dishes": [
+        {
+          "title": "filé grelhado",
+          "active": true
+        },
+        {
+          "title": "bife a cavalo",
+          "active": true
+        },
+        {
+          "title": "calabresa acebolada",
+          "active": true
+        },
+        {
+          "title": "linguiça acebolada",
+          "active": true
+        },
+        {
+          "title": "parmegiana de carne",
+          "active": true
+        },
+        {
+          "title": "parmegiana de frango",
+          "active": true
+        },
+        {
+          "title": "bife acebolado",
+          "active": true
+        }
+      ],
+      "dishComplements": [
+        {
+          "title": "",
+          "active": true
+        },
+        {
+          "title": "",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
